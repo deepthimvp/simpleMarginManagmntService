@@ -1,0 +1,7 @@
+com.example.SimpleMarginMgmnt
+com.example.SimpleMarginMgmnt.controller
+com.example.SimpleMarginMgmnt.domain
+com.example.SimpleMarginMgmnt.entity
+com.example.SimpleMarginMgmnt.repository
+com.example.SimpleMarginMgmnt.service
+com.example.SimpleMarginMgmnt.service.impl
