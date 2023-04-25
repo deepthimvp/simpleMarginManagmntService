@@ -1,0 +1,2 @@
+# simpleMarginManagmntService
+dbs assignment
